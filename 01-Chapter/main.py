@@ -1,5 +1,5 @@
 def print_hi(name):
-    print(f'Welcome to the python world, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+    print(f'Welcome to the python world, {name}')
 
 
 def find_even_number(numbers):
