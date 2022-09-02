@@ -13,3 +13,4 @@ def send_greeting(name):
 
 if __name__ == '__main__':
     send_greeting('Maha')
+
