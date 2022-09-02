@@ -11,6 +11,7 @@ def send_greeting(name):
     else:
         print("Good night " + name)
 
+
 if __name__ == '__main__':
     send_greeting('Maha')
 
