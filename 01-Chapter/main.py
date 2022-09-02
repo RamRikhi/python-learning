@@ -12,4 +12,5 @@ def send_greeting(name):
         print("Good night " + name)
 
 if __name__ == '__main__':
-    send_greeting('Rikhi')
+    send_greeting('Maha')
+
