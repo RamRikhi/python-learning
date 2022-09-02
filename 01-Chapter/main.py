@@ -11,18 +11,5 @@ def send_greeting(name):
     else:
         print("Good night " + name)
 
-def find_even_number(numbers):
-    for i in numbers:
-        if i % 2 == 0:
-            print(i)
-
-
-
 if __name__ == '__main__':
-<<<<<<< HEAD
-    print_hi('Maha')
-    find_even_number([1,3,4,6,90,7,34])
-=======
     send_greeting('Maha')
-
->>>>>>> f19af1b2797e49ab81f59836f155fada2e19f948
