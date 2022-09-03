@@ -4,4 +4,4 @@
 
 from playsound import playsound
 
-playsound("path of the mp3 file")
+playsound('/path/to/a/sound/file/you/want/to/play.mp3')

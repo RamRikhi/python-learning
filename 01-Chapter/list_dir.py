@@ -5,4 +5,8 @@
 import os
 
 # This python program is able to print current directory file names
-print(os.listdir())
+
+files = os.listdir()
+
+for index in files:
+    print(index)
