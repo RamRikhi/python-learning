@@ -1,4 +1,5 @@
 from datetime import datetime
+import sys
 
 # Author:  Rikhi
 # Date: 05/09/2022
@@ -16,5 +17,6 @@ def greet_user(name):
     else:
             print("Good Night " + name)
 
+
 # Calling greet_user() function
-greet_user("Rikhi")
+greet_user(sys.argv[1] + " " + sys.argv[2])
