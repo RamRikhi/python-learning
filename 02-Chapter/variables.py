@@ -3,7 +3,7 @@
 # Date: 09/09/2022
 # Copyright @ 2022
 
-number = 10
+number = 20
 deci_number = 10.20
 name = "Ram"
 comple = 1j
