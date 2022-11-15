@@ -6,7 +6,9 @@
 number = 10
 deci_number = 10.20
 name = "Ram"
+comple = 1j
 
+print(comple)
 print(number)
 print(deci_number)
 print(name)
